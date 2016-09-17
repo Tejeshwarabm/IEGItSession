@@ -21,5 +21,5 @@ Push back to repo
 ```bash
 git push origin master
 ```
-
+Thank you
 Now open a pull request by going to https://github.com/rohitvarkey/IEGItSession.git and clicking pull request.
